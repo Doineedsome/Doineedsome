@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Doineedsome
 - 👀 I’m interested in FNF games
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on none
+- 💞️ I’m looking to collaborate on krunker hackers
 - 📫 How to reach me none
 
 <!---
